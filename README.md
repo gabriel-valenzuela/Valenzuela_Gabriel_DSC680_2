@@ -1,2 +1,2 @@
-# Valenzuela_Gabriel_DSC680_2
+# Chopped Injuries Analysis
 Applied Data Sience Course Project 2
